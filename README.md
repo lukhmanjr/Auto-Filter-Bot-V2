@@ -52,16 +52,7 @@ or
 or
 * /del @channelusername  -  Delinks channel from group
 
-<i>NOTE : You can get connected channel details by /filterstats </i>
-
-
-* /delall  -  Removes all connected channels and filters from group!
-
-* /filterstats  -  Check connected channels and number of filters.
-
-## You can check the video tutorial on how to deploy
-
-[Click here to see tutorial video](https://youtu.be/zum9AUlOgtQ)
+<i>NOTE : You can get connected channel details by /filterstats <
 
 Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
 
