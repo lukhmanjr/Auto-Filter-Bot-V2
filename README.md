@@ -37,7 +37,6 @@
 
 (You need to be a Auth User in order to use these commands)
 
-* /add channelid  -  Links channel to your group.
 or
 * /add @channelusername - Links channel to your group.
 
